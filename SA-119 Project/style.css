@@ -308,3 +308,42 @@ Chrome/Safari */
 	display: inline-block;
 	margin: 20px;
 }
+.about{
+  color:#fff;
+  background-color: #a87a7a;
+  text-align:center;
+  padding: 5em 0em;
+ }
+  .wrap_about{
+  width: 90%;
+  margin: 0 auto;
+ }
+.about h2{
+    font-size:2em;
+    padding-bottom: 0.5em;
+ }
+.about p{
+  font-size:1em;
+  padding-bottom: 4em;
+ }
+ .grid{
+  width: 30%;
+  float: left;
+  background-color: #fff;
+  margin: 0 1.5% 0 1.5%;
+  border: 1px solid black;
+  min-height: 508px;
+ }
+.grid  h3{
+  color: #292828;
+  font-size: 1.4em;
+  margin-top: 15px;
+ }
+.grid  p {
+  color: #444444;
+  font-size: 1.02em;
+  text-align: left;
+  padding: 1em 1em 2em 1em;
+  line-height: 1.9em;
+ }
+.clear{clear:both;}
